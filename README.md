@@ -1,2 +1,3 @@
-# Web-Development
-This repository is about web proyects
+# JavaScript Challenge
+Hello!
+This is my first javascript proyect
